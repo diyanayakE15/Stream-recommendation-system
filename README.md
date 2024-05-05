@@ -1,7 +1,7 @@
-<b>Introduction: </b><br><br>
+<b>Introduction: </b><br>
 The development of the stream recommendation system has aimed to provide vital guidance to students transitioning from matriculation to junior college. By addressing challenges such as decision-making complexity, limited access to resources, and technological barriers, the system offers personalized recommendations based on individual preferences and academic performance.
-<br>
-<b>Functionalities:</b><br><br>
+<br><br>
+<b>Functionalities:</b><br>
 This project consists of three main  functionalities: User Authentication, Stream recommendation, and college recommendation.
 <br>
 <i><b>User Authentication:</i></b> To ensure data privacy and confidentiality, the system offers students a secure login interface through which they can authenticate using their unique usernames and passwords. When a student creates a username the system checks whether that particular username exists or not if it already exists the user is asked to give a different username. The password is hashed before it is stored in the database so as to ensure data encryption.
