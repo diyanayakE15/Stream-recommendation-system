@@ -16,7 +16,7 @@ MySQL database<br>
 Installation and Setup<br>
 
 <b>Clone the repository:</b><br>
-git clone https://github.com/your-username/stream-recommendation.git<br>
+https://github.com/your-username/stream-recommendation.git](https://github.com/diyanayakE15/Stream-recommendation-system<br>
 
 <b>Install the required dependencies:</b><br>
 pip install pymysql tabulate<br>
@@ -24,6 +24,7 @@ Set up a MySQL database and update the connection details in the code (host, use
 
 <b>Run the script:</b><br>
 python interface.py<br>
+
 <b>Usage:</b><br>
 Run the script and follow the prompts to register or log in.<br>
 Upon login, make selections for stream and college as per the provided options.<br>
