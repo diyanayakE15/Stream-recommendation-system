@@ -16,7 +16,7 @@ MySQL database<br>
 Installation and Setup<br>
 
 <b>Clone the repository:</b><br>
-https://github.com/your-username/stream-recommendation.git](https://github.com/diyanayakE15/Stream-recommendation-system<br>
+https://github.com/diyanayakE15/Stream-recommendation-system<br>
 
 <b>Install the required dependencies:</b><br>
 pip install pymysql tabulate<br>
